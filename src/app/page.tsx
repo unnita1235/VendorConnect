@@ -1,5 +1,5 @@
 import { products } from '@/lib/products';
-import { Header } from '@/components/header';
+import { Header } from '@/components/Header';
 import { ProductCard } from '@/components/product-card';
 import { VendorSearch } from '@/components/vendor-search';
 
