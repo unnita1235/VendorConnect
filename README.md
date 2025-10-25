@@ -15,3 +15,13 @@
 
 ---
 
+## Screenshots
+
+**Homepage (hero + search)**  
+![VendorConnect homepage](public/screenshots/VendorConnect.png) 
+
+**Product grid (cards & Add to Cart)**  
+![Product grid](public/screenshots/VendorConnect1.png) 
+
+**Shopping cart drawer**  
+![Shopping cart drawer](public/screenshots/VendorConnect2.png) 
