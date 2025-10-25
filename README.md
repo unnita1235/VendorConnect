@@ -15,19 +15,3 @@
 
 ---
 
-## Screenshots
-
-Add screenshots to illustrate the UI. Place your screenshot images in the repository (recommended path: `/public/screenshots/`). Example files:
-- `/public/screenshots/homepage.png`
-- `/public/screenshots/product-page.png`
-- `/public/screenshots/cart.png`
-
-Then include screenshots in README like this:
-
-```markdown
-## Screenshots
-
-![Homepage](/screenshots/homepage.png)
-![Product Page](/screenshots/product-page.png)
-![Cart](/screenshots/cart.png)
-
